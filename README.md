@@ -7,7 +7,9 @@
 ---
 
 ## 🗂️ Struktura Repozytorium / Repository Structure
+## 🗂️ Struktura Repozytorium / Repository Structure
 
+```text
 📦 AGH-Labs-Projects
  ┣ 📂 C#
  ┃ ┣ 📂 Example1
@@ -34,9 +36,8 @@
  ┃ ┣ 📜 lab04.py
  ┃ ┗ 📜 README.md
  ┗ 📜 README.md (Ten plik / This file)
-
+```
 ---
-
 ## 📂 Co tu znajdziesz? / Contents Overview
 
 * **[Machine learning](./Machine%20learning)** Rozwiązania z wykorzystaniem języka Python i biblioteki `scikit-learn`. Obejmują implementację modeli regresyjnych, klasyfikatorów (SVM, KNN), optymalizację hiperparametrów (GridSearch) oraz wizualizację granic decyzyjnych.
