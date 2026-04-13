@@ -6,20 +6,6 @@
 
 ---
 
-## 📂 Co tu znajdziesz? / Repository Contents
-
-* **[Machine Learning](./Machine%20Learning)** Rozwiązania z wykorzystaniem języka Python i biblioteki `scikit-learn`. Obejmują implementację modeli regresyjnych, klasyfikatorów (SVM, KNN), optymalizację hiperparametrów (GridSearch) oraz wizualizację granic decyzyjnych.
-
-* **[Data Engineering](./Data%20Engineering)** Skrypty do przetwarzania i analizy danych. Zawierają operacje łączenia i czyszczenia danych, analizę szeregów czasowych przy użyciu biblioteki `Pandas` oraz podstawy szybkiej analityki z wykorzystaniem silnika `DuckDB`.
-
-* **[Inżynieria Oprogramowania](./Inzynieria%20Oprogramowania)** Kompleksowa dokumentacja projektu zespołowego (System Rezerwacji Zasobów). Obejmuje analizę systemową, w tym diagramy przypadków użycia, modele UML, diagramy przepływu danych (DFD) oraz projekt architektury aplikacji.
-
-* **[C++](./C++)** Projekty oparte na programowaniu obiektowym i niskopoziomowym zarządzaniu pamięcią. Zawierają własne implementacje struktur danych (listy, wektory) zgodne z Zasadą Pięciu, a także kod źródłowy z projektu autorskiego języka Tøn (DSL).
-
-* **[C#](./C%23)** Aplikacje konsolowe i skrypty narzędziowe służące do parsowania, analizy i agregacji danych z plików (JSON, CSV, XML) z intensywnym wykorzystaniem zapytań LINQ.
-
-* **[LaTeX]** Profesjonalnie złożone sprawozdanie z pracowni fizycznej (dozymetria promieniowania). Demonstruje umiejętność opracowywania wyników, rachunku błędu pomiarowego oraz generowania wykresów bezpośrednio w kodzie LaTeX.
-
 ## 🗂️ Struktura Repozytorium / Repository Structure
 
 📦 AGH-Labs-Projects
@@ -48,3 +34,19 @@
  ┃ ┣ 📜 lab04.py
  ┃ ┗ 📜 README.md
  ┗ 📜 README.md (Ten plik / This file)
+
+---
+
+## 📂 Co tu znajdziesz? / Contents Overview
+
+* **[Machine learning](./Machine%20learning)** Rozwiązania z wykorzystaniem języka Python i biblioteki `scikit-learn`. Obejmują implementację modeli regresyjnych, klasyfikatorów (SVM, KNN), optymalizację hiperparametrów (GridSearch) oraz wizualizację granic decyzyjnych.
+
+* **[Data engineering](./Data%20engineering)** Skrypty do przetwarzania i analizy danych. Zawierają operacje łączenia i czyszczenia danych, analizę szeregów czasowych przy użyciu biblioteki `Pandas` oraz podstawy szybkiej analityki z wykorzystaniem silnika `DuckDB`.
+
+* **[Inżynieria oprogramowania](./Inżynieria%20oprogramowania)** Kompleksowa dokumentacja projektu zespołowego (System Rezerwacji Zasobów). Obejmuje analizę systemową, w tym diagramy przypadków użycia, modele UML, diagramy przepływu danych (DFD) oraz projekt architektury aplikacji.
+
+* **[C++](./C++)** Projekty oparte na programowaniu obiektowym i niskopoziomowym zarządzaniu pamięcią. Zawierają własne implementacje struktur danych (listy, wektory) zgodne z Zasadą Pięciu. Znajduje się tu również wkład w projekt autorskiego języka Tøn (DSL).
+
+* **[C#](./C%23)** Aplikacje konsolowe i skrypty narzędziowe służące do parsowania, analizy i agregacji danych z plików (JSON, CSV, XML) z intensywnym wykorzystaniem zapytań LINQ i typów generycznych.
+
+* **[LaTeX](./LaTeX)** Profesjonalnie złożone sprawozdanie z pracowni fizycznej (dozymetria promieniowania). Demonstruje umiejętność matematycznego opracowywania wyników, rachunku błędu pomiarowego oraz generowania wykresów bezpośrednio w kodzie (`pgfplots`).
