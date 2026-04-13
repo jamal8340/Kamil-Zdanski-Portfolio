@@ -1,0 +1,14 @@
+D:\IT\Programowanie zaawansowane C#\lab04\obj\Debug\net10.0\lab04.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Programowanie zaawansowane C#\lab04\obj\Debug\net10.0\lab04.AssemblyInfoInputs.cache
+D:\IT\Programowanie zaawansowane C#\lab04\obj\Debug\net10.0\lab04.AssemblyInfo.cs
+D:\IT\Programowanie zaawansowane C#\lab04\obj\Debug\net10.0\lab04.csproj.CoreCompileInputs.cache
+D:\IT\Programowanie zaawansowane C#\lab04\bin\Debug\net10.0\lab04.exe
+D:\IT\Programowanie zaawansowane C#\lab04\bin\Debug\net10.0\lab04.deps.json
+D:\IT\Programowanie zaawansowane C#\lab04\bin\Debug\net10.0\lab04.runtimeconfig.json
+D:\IT\Programowanie zaawansowane C#\lab04\bin\Debug\net10.0\lab04.dll
+D:\IT\Programowanie zaawansowane C#\lab04\bin\Debug\net10.0\lab04.pdb
+D:\IT\Programowanie zaawansowane C#\lab04\obj\Debug\net10.0\lab04.dll
+D:\IT\Programowanie zaawansowane C#\lab04\obj\Debug\net10.0\refint\lab04.dll
+D:\IT\Programowanie zaawansowane C#\lab04\obj\Debug\net10.0\lab04.pdb
+D:\IT\Programowanie zaawansowane C#\lab04\obj\Debug\net10.0\lab04.genruntimeconfig.cache
+D:\IT\Programowanie zaawansowane C#\lab04\obj\Debug\net10.0\ref\lab04.dll

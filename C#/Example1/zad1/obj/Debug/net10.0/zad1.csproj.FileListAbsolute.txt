@@ -1,0 +1,14 @@
+D:\IT\Programowanie zaawansowane C#\lab03\zad1\bin\Debug\net10.0\zad1.exe
+D:\IT\Programowanie zaawansowane C#\lab03\zad1\bin\Debug\net10.0\zad1.deps.json
+D:\IT\Programowanie zaawansowane C#\lab03\zad1\bin\Debug\net10.0\zad1.runtimeconfig.json
+D:\IT\Programowanie zaawansowane C#\lab03\zad1\bin\Debug\net10.0\zad1.dll
+D:\IT\Programowanie zaawansowane C#\lab03\zad1\bin\Debug\net10.0\zad1.pdb
+D:\IT\Programowanie zaawansowane C#\lab03\zad1\obj\Debug\net10.0\zad1.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Programowanie zaawansowane C#\lab03\zad1\obj\Debug\net10.0\zad1.AssemblyInfoInputs.cache
+D:\IT\Programowanie zaawansowane C#\lab03\zad1\obj\Debug\net10.0\zad1.AssemblyInfo.cs
+D:\IT\Programowanie zaawansowane C#\lab03\zad1\obj\Debug\net10.0\zad1.csproj.CoreCompileInputs.cache
+D:\IT\Programowanie zaawansowane C#\lab03\zad1\obj\Debug\net10.0\zad1.dll
+D:\IT\Programowanie zaawansowane C#\lab03\zad1\obj\Debug\net10.0\refint\zad1.dll
+D:\IT\Programowanie zaawansowane C#\lab03\zad1\obj\Debug\net10.0\zad1.pdb
+D:\IT\Programowanie zaawansowane C#\lab03\zad1\obj\Debug\net10.0\zad1.genruntimeconfig.cache
+D:\IT\Programowanie zaawansowane C#\lab03\zad1\obj\Debug\net10.0\ref\zad1.dll

@@ -1,0 +1,39 @@
+-- The C compiler identification is GNU 13.1.0
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Looking for __asan_init in asan
+-- Looking for __asan_init in asan - found
+-- Looking for __ubsan_handle_add_overflow in ubsan
+-- Looking for __ubsan_handle_add_overflow in ubsan - found
+-- Sanitizers (AddressSanitizer + UndefinedBehaviorSanitizer) są dostępne
+-- Znaleziono include-what-you-use: /usr/bin/include-what-you-use
+-- Używany mapping IWYU: /tmp/tmpze8bpp52/student/tests/include-what-you-use_exceptions.imp
+Katalog do zbudowanego projektu: /tmp/tmpze8bpp52/student/build
+ + Znaleziono nagłówki: /tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h
+ + Znaleziono źródła: /tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp;/tmp/tmpze8bpp52/student/main.cpp
+ + Znaleziono źródła bez main.cpp: /tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp
+	* valgrind found: /usr/bin/valgrind
+	* cppcheck found: /usr/local/bin/cppcheck
+	+ adding command found: `cpplint` which would check trailing whitespaces and tabs in files: /tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h and /tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp;/tmp/tmpze8bpp52/student/main.cpp
+	+ adding command found: `clang-tidy` to run static analysis on source files: /tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp;/tmp/tmpze8bpp52/student/main.cpp and /tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h
+	+ adding command found: `flawfinder` to perform security analysis on files: /tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp;/tmp/tmpze8bpp52/student/main.cpp and /tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+ + Znaleziono pliki testów: /tmp/tmpze8bpp52/student/tests/SortedUniqueVectoredListTests.cpp
+ + katalog nagłówków: 
+	* perf found: /usr/bin/perf, so adding command: 'perf_stats_tests'
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/tmpze8bpp52/student/build

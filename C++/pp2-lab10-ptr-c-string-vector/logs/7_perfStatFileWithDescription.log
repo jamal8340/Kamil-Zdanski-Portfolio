@@ -1,0 +1,51 @@
+Consolidate compiler generated dependencies of target gtest
+[ 25%] Built target gtest
+Consolidate compiler generated dependencies of target gtest_main
+[ 50%] Built target gtest_main
+Consolidate compiler generated dependencies of target tests
+[ 87%] Built target tests
+[100%] Running perf stat and explaining results
+
+ Performance counter stats for '/tmp/tmp9jasalex/student/build/bin/tests':
+
+     3,503,980,763      cycles                    #    2.701 GHz                      (66.36%)
+     6,279,190,942      instructions              #    1.79  insn per cycle           (83.34%)
+        11,971,890      cache-references          #    9.230 M/sec                    (83.54%)
+         5,823,274      cache-misses              #   48.641 % of all cache refs      (83.65%)
+     1,457,907,991      branches                  #    1.124 G/sec                    (83.43%)
+         1,532,965      branch-misses             #    0.11% of all branches          (83.09%)
+           162,101      faults                    #  124.973 K/sec                  
+          1,297.09 msec task-clock                #    1.000 CPUs utilized          
+                 4      context-switches          #    3.084 /sec                   
+                 0      cpu-migrations            #    0.000 /sec                   
+           162,101      page-faults               #  124.973 K/sec                  
+
+       1.297357792 seconds time elapsed
+
+       0.973188000 seconds user
+       0.324450000 seconds sys
+
+
+======================
+Program perf to narzędzie do analizy wydajności działania programów.
+Podkomenda perf\ stat mierzy podstawowe statystyki wydajności: ile operacji wykonał CPU, jak dobrze działała pamięć cache itd.
+
+Tłumaczenie wyników perf stat:
+
+1. cycles         - liczba cykli CPU zużyta przez program. Jeden cykl to podstawowa jednostka pracy procesora: np. wykonanie małego fragmentu instrukcji.
+2. instructions   - liczba wykonanych instrukcji procesora. Instrukcja to pojedyncza operacja typu dodawanie, przesunięcie, skok itd.
+3. cache-references - liczba prób odczytu/zapisu danych z szybkiej pamięci cache procesora.
+4. cache-misses   - ile razy procesor próbował dostać dane z cache, ale ich tam nie było, przez co musiał pobrać z RAM-u.
+5. branches       - liczba instrukcji skoku, np. w if-ach, pętlach for/while lub switch.
+6. branch-misses  - liczba sytuacji, kiedy procesor źle przewidział wynik skoku i musiał cofnąć się i poprawić, co spowalnia program.
+7. faults         - liczba błędów dostępu do pamięci lub pułapek systemowych. Np. gdy program odwołuje się do pamięci, której jeszcze nie załadowano do RAM-u.
+8. task-clock     - łączny czas w milisekundach, jaki procesor aktywnie spędził wykonując program.
+9. context-switches - ile razy system operacyjny przełączył wykonanie z jednego procesu lub wątku na inny: przełączenie uwagi CPU.
+10. cpu-migrations - ile razy system przeniósł proces między różnymi rdzeniami CPU, co może spowalniać działanie.
+11. page-faults    - liczba sytuacji, kiedy program chciał użyć fragmentu pamięci, który nie był jeszcze załadowany do RAM i system musiał go dopiero wczytać.
+
+Dodatkowo:
+- time elapsed - całkowity rzeczywisty czas trwania programu: z perspektywy zegarka na ścianie.
+- user/sys     - czas spędzony na wykonywaniu kodu użytkownika [user] oraz kodu systemowego [sys].
+======================
+[100%] Built target perf_stats_tests

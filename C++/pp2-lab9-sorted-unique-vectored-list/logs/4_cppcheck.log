@@ -1,0 +1,9 @@
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h:171:13: warning: Class 'SortedUniqueVectoredList' is unsafe, 'SortedUniqueVectoredList::head' can leak by wrong usage. [unsafeClassCanLeak]
+    Bucket *head = nullptr, *tail = nullptr;
+            ^
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:114:0: warning: The function 'erase' is never used. [unusedFunction]
+void SortedUniqueVectoredList::erase(const string &value)
+^
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:150:0: warning: The function 'allocate_new_bucket' is never used. [unusedFunction]
+void SortedUniqueVectoredList::allocate_new_bucket()
+^

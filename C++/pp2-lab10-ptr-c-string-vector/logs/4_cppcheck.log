@@ -1,0 +1,3 @@
+/tmp/tmp9jasalex/student/PtrCStringVector.cpp:95:0: warning: The function 'push_back' is never used. [unusedFunction]
+void PtrCStringVector::push_back(const char *text2Add)
+^

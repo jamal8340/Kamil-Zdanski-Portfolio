@@ -1,0 +1,91 @@
+make: Entering directory '/tmp/tmpze8bpp52/student/build'
+make[1]: Entering directory '/tmp/tmpze8bpp52/student/build'
+make[2]: Entering directory '/tmp/tmpze8bpp52/student/build'
+make[3]: Entering directory '/tmp/tmpze8bpp52/student/build'
+make[3]: Leaving directory '/tmp/tmpze8bpp52/student/build'
+make[3]: Entering directory '/tmp/tmpze8bpp52/student/build'
+[100%] Running cpplint to check for tabs and trailing whitespace
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:1:  At least two spaces is best between code and comments  [whitespace/comments] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:31:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:42:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:43:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:46:  Redundant blank line at the end of a code block should be deleted.  [whitespace/blank_line] [3]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:49:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:50:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:56:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:61:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:62:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:65:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:72:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:91:  At least two spaces is best between code and comments  [whitespace/comments] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:115:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:120:  Redundant blank line at the start of a code block should be deleted.  [whitespace/blank_line] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:128:  Redundant blank line at the end of a code block should be deleted.  [whitespace/blank_line] [3]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:130:  Redundant blank line at the end of a code block should be deleted.  [whitespace/blank_line] [3]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:138:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:139:  Missing spaces around =  [whitespace/operators] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:151:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:173:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:184:  Missing spaces around =  [whitespace/operators] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:185:  Missing spaces around =  [whitespace/operators] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:189:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:204:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:206:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:240:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:252:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:253:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:269:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:270:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:288:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:295:  Missing space before else  [whitespace/braces] [5]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:304:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:311:  Missing space before else  [whitespace/braces] [5]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:319:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:320:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp:322:  Missing spaces around !=  [whitespace/operators] [3]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h:33:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h:34:  public: should be indented +1 space inside class SortedUniqueVectoredList  [whitespace/indent] [3]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h:38:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h:68:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h:84:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h:91:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h:98:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h:116:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h:123:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h:137:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h:143:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h:147:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h:149:  protected: should be indented +1 space inside class SortedUniqueVectoredList  [whitespace/indent] [3]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h:170:  private: should be indented +1 space inside class SortedUniqueVectoredList  [whitespace/indent] [3]
+/tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h:177:  At least two spaces is best between code and comments  [whitespace/comments] [2]
+/tmp/tmpze8bpp52/student/main.cpp:10:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/main.cpp:10:  At least two spaces is best between code and comments  [whitespace/comments] [2]
+/tmp/tmpze8bpp52/student/main.cpp:16:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/main.cpp:20:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/main.cpp:25:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/main.cpp:30:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/main.cpp:31:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/main.cpp:31:  Missing spaces around <=  [whitespace/operators] [3]
+/tmp/tmpze8bpp52/student/main.cpp:35:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/main.cpp:39:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/main.cpp:40:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/main.cpp:48:  { should almost always be at the end of the previous line  [whitespace/braces] [4]
+/tmp/tmpze8bpp52/student/main.cpp:49:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/main.cpp:50:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/main.cpp:52:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/main.cpp:53:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/main.cpp:55:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/main.cpp:56:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+/tmp/tmpze8bpp52/student/main.cpp:57:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+Done processing /tmp/tmpze8bpp52/student/SortedUniqueVectoredList.cpp
+Done processing /tmp/tmpze8bpp52/student/SortedUniqueVectoredList.h
+Done processing /tmp/tmpze8bpp52/student/main.cpp
+Total errors found: 72
+make[3]: *** [CMakeFiles/cpplint.dir/build.make:71: CMakeFiles/cpplint] Error 1
+make[3]: Leaving directory '/tmp/tmpze8bpp52/student/build'
+make[2]: *** [CMakeFiles/Makefile2:375: CMakeFiles/cpplint.dir/all] Error 2
+make[2]: Leaving directory '/tmp/tmpze8bpp52/student/build'
+make[1]: *** [CMakeFiles/Makefile2:382: CMakeFiles/cpplint.dir/rule] Error 2
+make[1]: Leaving directory '/tmp/tmpze8bpp52/student/build'
+make: *** [Makefile:273: cpplint] Error 2
+make: Leaving directory '/tmp/tmpze8bpp52/student/build'
